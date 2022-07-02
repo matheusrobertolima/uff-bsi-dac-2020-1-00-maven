@@ -15,3 +15,7 @@ Inclua um campo de seleção para o usuário indicar a forma de tratamento prefe
 
 Adicione uma alteração ou nova funcionalidade à sua escolha e a descreva no arquivo README no repositório do projeto. - FEITO ✓
 (Como não estava muito inspirado para pensar em algo mais interessante, apenas adicionei a saída da data para o usuário ao "Cumprimentar".)
+
+Link para o aplicativo no Heroku: https://upper-worms-88899.herokuapp.com/
+
+Ps: Assim como o colega Brendan disse no comentário da atividade do Heroku, o "sayhello.jsp" não está funcionando "online" no Heroku. Quando eu executei o projeto no NetBeans com o Glassfish executou normalmente.
